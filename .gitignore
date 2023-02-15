@@ -1,3 +1,4 @@
 .venv/
 proxy/__pycache__
 access/__pycache__
+__pycache__/
